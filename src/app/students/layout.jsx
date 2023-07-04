@@ -1,5 +1,5 @@
 import React from 'react'
-import Courses from './courses'
+import Courses from './Courses'
 import { Outfit } from 'next/font/google'
 
 const slow = Outfit({

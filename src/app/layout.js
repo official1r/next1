@@ -1,7 +1,7 @@
 import './globals.css'
 import { Fasthand } from 'next/font/google'
 import Navbar from './components/Navbar'
-import Footer from './components/footer'
+import Footer from './components/Footer'
 
 const fast = Fasthand({
    subsets: ['latin'] ,
